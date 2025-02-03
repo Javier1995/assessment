@@ -1,5 +1,44 @@
 # Sourcetoad Assessment
 
+
+
+## Prerequisites
+
+Before you begin, ensure that you have the following installed:
+
+- [PHP](https://www.php.net/downloads.php) (version 8.4 or higher)
+- [Composer](https://getcomposer.org/download/)
+
+## Installation
+
+### 1. Clone the Repository
+
+First, clone the repository to your local machine:
+
+```bash
+git clone https://github.com/Javier1995/assessment.git
+cd assessment
+```
+
+
+### 2. Install autoload
+
+
+
+```bash
+composer install
+```
+
+### 2. Run app in command line
+
+
+
+```bash
+php index.php
+```
+
+
+
 **Note: Simple console output is acceptable and desired for the below questions.**
 
 ## Question 1
